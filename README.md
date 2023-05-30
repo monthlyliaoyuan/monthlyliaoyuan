@@ -22,17 +22,21 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 在浏览器中输入网址: https://chat.oblak.be
     →进入后注册登录
     →登录完成后
-进入https://chat.oblak.be/#/room/#ribaoxiaozu:oblak.be
+    
+→进入https://chat.oblak.be/#/room/#ribaoxiaozu:oblak.be
     →即可开始聊天
 
-注意:非 PC 平台需将浏览器 UA 改为电脑版，以防网页无法载入
+注意:非 PC 平台需将浏览器 UA 改为**电脑版**，以防网页无法载入
 
 ### 【APP版（Android平台）】
 
 #### 1.获得安装包
    在浏览器中输入网址: https://f-droid.org, 在搜索栏搜索**SchildiChat**并下载安装。
    
-（或者直接点击此链接进行下载：https://f-droid.org/zh_Hans/packages/de.spiritcroc.riotx ）
+（或者直接点击**此链接**进行下载：https://f-droid.org/zh_Hans/packages/de.spiritcroc.riotx ）
+
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/SchildiChat.png)
+
 #### 2.注册帐号
    ①选择服务器。我们选择**自定义服务器**。并填入 **oblak.be**；
    
