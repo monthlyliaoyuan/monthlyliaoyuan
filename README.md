@@ -15,6 +15,35 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 
 其下属几个频道包括[马列毛主义和革命左翼**图书馆**](https://t.me/taipingtianguo)、[马列毛主义和革命左翼**艺术馆**](https://t.me/leftart)、[马列毛主义和革命左翼**时事评论**](https://t.me/eventstracing)、[马列毛主义和革命左翼**国际共运**](https://t.me/statelesscommunism)、[马列毛主义和革命左翼**时事简讯**](https://t.me/timeshape)、[**图书馆仓储中心**](https://t.me/MLMismLibrary)等。
 
+## 加入Martix群组的方法
+
+### 【网页版(全平台)】
+
+在浏览器中输入网址: https://chat.oblak.be
+    →进入后注册登录
+    →登录完成后
+进入https://chat.oblak.be/#/room/#ribaoxiaozu:oblak.be
+    →即可开始聊天
+
+注意:非 PC 平台需将浏览器 UA 改为电脑版，以防网页无法载入
+
+### 【APP版（Android平台）】
+
+#### 1.获得安装包
+   在浏览器中输入网址: https://f-droid.org, 在搜索栏搜索**SchildiChat**并下载安装。
+   
+（或者直接点击此链接进行下载：https://f-droid.org/zh_Hans/packages/de.spiritcroc.riotx ）
+#### 2.注册帐号
+   ①选择服务器。我们选择**自定义服务器**。并填入 **oblak.be**；
+   
+   ②点击**注册**,输入你的用户名与密码；
+   
+   点击下一步后,注册完成。
+#### 3.进入房间
+   点击右上角的放大镜搜索房间，在搜索框中输入 **#ribaoxiaozu:oblak.be**
+   
+   选择第一个链接后加入房间。
+
 ## 第十期（2023年5月刊）
 ### 封面
 ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E9%9D%A210.png)
