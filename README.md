@@ -42,6 +42,9 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 #### 2.注册帐号
    ①选择服务器。我们选择**自定义服务器**。并填入 **oblak.be**；
    
+   ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/server.png)
+   ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/be.png)
+   
    ②点击**注册**,输入你的用户名与密码；
    
    点击下一步后,注册完成。
