@@ -28,6 +28,8 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 
 注意:非 PC 平台需将浏览器 UA 改为**电脑版**，以防网页无法载入
 
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/oblak-sign-up.png)
+
 ### 【APP版（Android平台）】
 
 #### 1.获得安装包
