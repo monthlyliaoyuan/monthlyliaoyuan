@@ -49,9 +49,17 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
    
    点击下一步后,注册完成。
 #### 3.进入房间
-   点击右上角的放大镜搜索房间，在搜索框中输入 **#ribaoxiaozu:oblak.be**
+   点击右上角的放大镜搜索房间，在搜索框中输入 **#jinggangshan:matrix.org**（井冈山大群），选择第一个链接后加入房间。
    
-   选择第一个链接后加入房间。
+   也可以点击以下几个链接，加入其他相关群组：
+
+https://matrix.to/#/#zlibrary:oblak.be **（图书馆，艺术馆）**
+
+https://matrix.to/#/!kbtJsGBsJTqeeleovy:oblak.be?via=oblak.be **（时事新闻）**
+
+https://matrix.to/#/#ribaoxiaozu:oblak.be **（日报小组）**
+   
+
 
 ## 第十期（2023年5月刊）
 ### 封面
