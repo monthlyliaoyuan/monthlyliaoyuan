@@ -60,6 +60,11 @@ https://matrix.to/#/!kbtJsGBsJTqeeleovy:oblak.be?via=oblak.be **（时事新闻�
 https://matrix.to/#/#ribaoxiaozu:oblak.be **（日报小组）**
    
 
+## 第十一期（2023年6月刊）
+### 封面
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E9%9D%A211.png)
+### 封底
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E5%BA%9511.png)
 
 ## 第十期（2023年5月刊）
 ### 封面
