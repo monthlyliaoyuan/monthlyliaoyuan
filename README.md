@@ -58,6 +58,12 @@ https://matrix.to/#/#zlibrary:oblak.be **（图书馆，艺术馆）**
 https://matrix.to/#/!kbtJsGBsJTqeeleovy:oblak.be?via=oblak.be **（时事新闻）**
 
 https://matrix.to/#/#ribaoxiaozu:oblak.be **（日报小组）**
+
+## 第十三期（2023年8月刊）
+### 封面
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E9%9D%A213.png)
+### 封底
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E5%BA%9513.png)
    
 ## 第十二期（2023年7月刊）
 ### 封面
