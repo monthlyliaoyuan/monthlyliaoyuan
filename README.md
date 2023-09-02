@@ -11,7 +11,7 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 
 👉[《燎原月刊》官方推特](https://twitter.com/liaoyuan2022)
 
-👉[官方YouTube频道]((https://www.youtube.com/@chuanhuodeshaonian))
+👉[官方YouTube频道](https://www.youtube.com/@chuanhuodeshaonian)
 
 其下属几个频道包括[马列毛主义和革命左翼**图书馆**](https://t.me/taipingtianguo)、[马列毛主义和革命左翼**艺术馆**](https://t.me/leftart)、[马列毛主义和革命左翼**时事评论**](https://t.me/eventstracing)、[马列毛主义和革命左翼**国际共运**](https://t.me/statelesscommunism)、[马列毛主义和革命左翼**每日简讯**](https://t.me/voiceofmaoist)、[**图书馆仓储中心**](https://t.me/MLMismLibrary)等。
 
