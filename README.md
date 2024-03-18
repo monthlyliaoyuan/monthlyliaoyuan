@@ -1,5 +1,5 @@
 ## 《燎原月刊》和《燎原日报》
-这是“马列毛主义和革命左翼”的官方刊物《燎原月刊》的Github库，PDF文件已上传至上方代码区，月刊每月初更新。点击上方“**📁《燎原月刊》**”即可查看和下载。
+这是“[马列毛主义和革命左翼](https://t.me/longlivemarxleninmaoist)”的官方刊物《燎原月刊》的Github库，PDF文件已上传至上方代码区，月刊每月初更新。点击上方“**📁《燎原月刊》**”即可查看和下载。
 
 This is a library for uploading the official publication of "Marxist-Leninist-Maoist and Revolutionary Left" "Prairie Monthly", the PDF file has been uploaded to the code area above, click "View code" to view and download.
 
