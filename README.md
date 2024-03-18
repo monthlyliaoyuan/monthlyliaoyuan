@@ -1,9 +1,9 @@
-## 《燎原月刊》
-这是“马列毛主义和革命左翼”的官方刊物《燎原月刊》的Github库，PDF文件已上传至上方代码区，月刊每月初更新。点击上方“**View code**”即可查看和下载。
+## 《燎原月刊》和《燎原日报》
+这是“马列毛主义和革命左翼”的官方刊物《燎原月刊》的Github库，PDF文件已上传至上方代码区，月刊每月初更新。点击上方“**📁《燎原月刊》**”即可查看和下载。
 
 This is a library for uploading the official publication of "Marxist-Leninist-Maoist and Revolutionary Left" "Prairie Monthly", the PDF file has been uploaded to the code area above, click "View code" to view and download.
 
-**“马列毛主义和革命左翼大群”** 是一个设立在Telegram和Matrix服务器上的群聊，[《燎原月刊》](https://t.me/taipingtianguo/865)和[《燎原日报》](https://t.me/eventstracing/936)是其主要刊物。《燎原月刊》自2024年3月后转为半月刊，《燎原日报》现暂时为一周一报。
+**“马列毛主义和革命左翼大群”** 是一个设立在Telegram和Matrix服务器上的群聊，[《燎原月刊》](https://t.me/taipingtianguo/865)和[《燎原日报》](https://t.me/eventstracing/936)是其主要刊物。《燎原月刊》自2024年3月后转为半月刊，《燎原日报》现暂时为一周一报，主要在[Telegram平台](https://t.me/eventstracing/936)上更新，此处更新会有延迟。
 
 [![YouTube](https://img.shields.io/badge/Youtube-传火的少年(@chuanhuodeshaonian)-red.svg)](https://www.youtube.com/@chuanhuodeshaonian)
 [![Twitter/X](https://img.shields.io/badge/Twitter-燎原(liaoyuan2022)-blue.svg)](https://twitter.com/liaoyuan2022)
