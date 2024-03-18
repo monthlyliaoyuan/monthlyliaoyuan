@@ -60,6 +60,13 @@ https://matrix.to/#/!kbtJsGBsJTqeeleovy:oblak.be?via=oblak.be **（时事新闻�
 
 https://matrix.to/#/#ribaoxiaozu:oblak.be **（日报小组）**
 
+## [第二十期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC20%E6%9C%9F%EF%BC%88%E9%80%82%E5%90%88%E6%89%8B%E6%9C%BA%E7%AB%AF%E9%98%85%E8%AF%BB%EF%BC%89.pdf)（2024年3月刊）
+### 封面
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E9%9D%A220.png)
+### 封底
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E5%BA%9520.png)
+
+
 ## [第十九期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC19%E6%9C%9F%EF%BC%88%E9%80%82%E5%90%88%E6%89%8B%E6%9C%BA%E7%AB%AF%E9%98%85%E8%AF%BB%EF%BC%89.pdf)（2024年2月刊）
 ### 封面
 ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E9%9D%A219.png)
