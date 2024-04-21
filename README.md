@@ -1,5 +1,5 @@
 ## 《燎原月刊》和《燎原日报》
-这是“[马列毛主义和革命左翼](https://t.me/longlivemarxleninmaoist)”的官方刊物《燎原月刊》的Github库，PDF文件已上传至上方代码区，月刊每月初更新。点击上方“[**📁《燎原月刊》**](https://github.com/monthlyliaoyuan/monthlyliaoyuan/tree/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B)”即可查看和下载。
+这是“[马列毛主义和革命左翼](https://t.me/longlivemarxleninmaoist)”的官方刊物《燎原月刊》的Github库，PDF文件已上传至上方代码区，月刊每月初更新。点击上方“**📁《燎原月刊》**”即可查看和下载。
 
 This is a library for uploading the official publication of "Marxist-Leninist-Maoist and Revolutionary Left" "Prairie Monthly", the PDF file has been uploaded to the code area above, click "View code" to view and download.
 
@@ -15,6 +15,18 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 [![论坛网站/discourse](https://img.shields.io/badge/论坛网站/discourse-布站(longlivemarxleninmaoism.online)-black.svg)](https://longlivemarxleninmaoism.online)
 
 其下属几个频道包括[马列毛主义和革命左翼**图书馆**](https://t.me/taipingtianguo)、[马列毛主义和革命左翼**艺术馆**](https://t.me/leftart)、[马列毛主义和革命左翼**时事评论**](https://t.me/eventstracing)、[马列毛主义和革命左翼**国际共运**](https://t.me/statelesscommunism)、[马列毛主义和革命左翼**每日简讯**](https://t.me/voiceofmaoist)、[**图书馆仓储中心**](https://t.me/MLMismLibrary)等。
+
+## 加入Telegram群组
+
+[先下载Telegram软件](https://telegram.org/apps)，再用虚拟号码注册一个Telegram账号，[点击这里查看**注册教程**](https://liaoyuan1949.site/t/topic/24180)。
+
+点击此链接👉<https://t.me/longlivemarxleninmaoist>👈，再点击“**VIEW IN TELEGRAM**”，即可加入群组。
+
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/Photo/MLMRL.png)
+
+或者在Telegram的搜索框内搜索“**@longlivemarxleninmaoist**”，即找到我们的群组。（下图中只有最上面的是我们的群组，其余的都是高仿群，不要加入。）
+
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/Photo/Sreach.png)
 
 ## 加入Martix群组的方法
 
@@ -59,6 +71,19 @@ https://matrix.to/#/#zlibrary:oblak.be **（图书馆，艺术馆）**
 https://matrix.to/#/!kbtJsGBsJTqeeleovy:oblak.be?via=oblak.be **（时事新闻）**
 
 https://matrix.to/#/#ribaoxiaozu:oblak.be **（日报小组）**
+
+## [第二十二期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC22%E6%9C%9F%EF%BC%88%E9%80%82%E5%90%88%E6%89%8B%E6%9C%BA%E7%AB%AF%E9%98%85%E8%AF%BB%EF%BC%89.pdf)（2024年4月下半月刊）
+### 封面
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E9%9D%A222.png)
+### 封底
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E5%BA%9522.png)
+
+## [第二十一期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC21%E6%9C%9F%EF%BC%88%E9%80%82%E5%90%88%E6%89%8B%E6%9C%BA%E7%AB%AF%E9%98%85%E8%AF%BB%EF%BC%89.pdf)（2024年4月上半月刊）
+### 封面
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E9%9D%A221.png)
+### 封底
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E5%BA%9521.png)
+
 
 ## [第二十期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC20%E6%9C%9F%EF%BC%88%E9%80%82%E5%90%88%E6%89%8B%E6%9C%BA%E7%AB%AF%E9%98%85%E8%AF%BB%EF%BC%89.pdf)（2024年3月刊）
 ### 封面
