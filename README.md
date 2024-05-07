@@ -11,7 +11,7 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 [![Telegram群组](https://img.shields.io/badge/Telegram群组-马列毛主义和革命左翼大群(MLMRL)-orange.svg)](https://t.me/longlivemarxleninmaoist)
 [![Martix群组](https://img.shields.io/badge/Martix群组-井冈山-green.svg)](https://matrix.to/#/#jinggangshan:matrix.org)
 
-[![Odysee/LBRY](https://img.shields.io/badge/Odysee/LBRY-传火的少年(@maliemaocommunist)-blue.svg)](https://odysee.com/@maliemaocommunist:1)
+[![Odysee/LBRY](https://img.shields.io/badge/Odysee/LBRY-传火的少年(@maliemaocommunist)-purple.svg)](https://odysee.com/@maliemaocommunist:1)
 [![论坛网站/discourse](https://img.shields.io/badge/论坛网站/discourse-布站(longlivemarxleninmaoism.online)-black.svg)](https://longlivemarxleninmaoism.online)
 
 其下属几个频道包括[马列毛主义和革命左翼**图书馆**](https://t.me/taipingtianguo)、[马列毛主义和革命左翼**艺术馆**](https://t.me/leftart)、[马列毛主义和革命左翼**时事评论**](https://t.me/eventstracing)、[马列毛主义和革命左翼**国际共运**](https://t.me/statelesscommunism)、[马列毛主义和革命左翼**每日简讯**](https://t.me/voiceofmaoist)、[**图书馆仓储中心**](https://t.me/MLMismLibrary)等。
