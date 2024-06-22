@@ -24,7 +24,7 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 
 ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/Photo/MLMRL.png)
 
-或者在Telegram的搜索框内搜索“**@longlivemarxleninmaoist**”，即找到我们的群组。（下图中只有最上面的是我们的群组，其余的都是高仿群，不要加入。）
+或者在Telegram的搜索框内搜索“**@longlivemarxleninmaoist**”，即可找到我们的群组。（下图中只有最上面的是我们的群组，其余的都是高仿群，不要加入。）
 
 ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/Photo/Sreach.png)
 
@@ -71,6 +71,12 @@ https://matrix.to/#/#zlibrary:oblak.be **（图书馆，艺术馆）**
 https://matrix.to/#/!kbtJsGBsJTqeeleovy:oblak.be?via=oblak.be **（时事新闻）**
 
 https://matrix.to/#/#ribaoxiaozu:oblak.be **（日报小组）**
+
+## [第二十六期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC26%E6%9C%9F%EF%BC%88%E9%80%82%E5%90%88%E6%89%8B%E6%9C%BA%E7%AB%AF%E9%98%85%E8%AF%BB%EF%BC%89.pdf)（2024年6月下半月刊）
+### 封面
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E9%9D%A226.png)
+### 封底
+![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E5%BA%9526.png)
 
 ## [第二十五期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC25%E6%9C%9F%EF%BC%88%E9%80%82%E5%90%88%E6%89%8B%E6%9C%BA%E7%AB%AF%E9%98%85%E8%AF%BB%EF%BC%89.pdf)（2024年6月上半月刊）
 ### 封面
