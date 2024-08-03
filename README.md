@@ -72,6 +72,8 @@ https://matrix.to/#/!kbtJsGBsJTqeeleovy:oblak.be?via=oblak.be **（时事新闻�
 
 https://matrix.to/#/#ribaoxiaozu:oblak.be **（日报小组）**
 
+# 《燎原月刊》（2022-至今）
+
 ## [第二十八期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC28%E6%9C%9F%EF%BC%88%E9%80%82%E5%90%88%E6%89%8B%E6%9C%BA%E7%AB%AF%E9%98%85%E8%AF%BB%EF%BC%89.pdf)（2024年7月下半月刊）
 ### 封面
 ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E9%9D%A228.png)
@@ -240,3 +242,7 @@ https://matrix.to/#/#ribaoxiaozu:oblak.be **（日报小组）**
 ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E5%B0%81%E9%9D%A2%E5%92%8C%E5%B0%81%E5%BA%95/%E5%B0%81%E5%BA%953.jpg)
 
 ## [第二期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC2%E6%9C%9F.pdf)（2022年9月刊）和[第一期](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B/%E3%80%8A%E7%87%8E%E5%8E%9F%E6%9C%88%E5%88%8A%E3%80%8B%E7%AC%AC1%E6%9C%9F.pdf)（2022年8月刊）无封面和封底。
+
+# 《燎原日报》
+
+## [2024年7月25日燎原日报【批未打狗专题特刊】]()
