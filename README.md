@@ -3,74 +3,32 @@
 
 This is a library for uploading the official publication of "Marxist-Leninist-Maoist and Revolutionary Left" "Prairie Monthly", the PDF file has been uploaded to the code area above, click "View code" to view and download.
 
-**“马列毛主义和革命左翼大群”** 是一个设立在Telegram和Matrix服务器上的群聊，[《燎原月刊》](https://t.me/taipingtianguo/865)和[《燎原日报》](https://t.me/eventstracing/936)是其主要刊物。《燎原月刊》自2024年3月后转为半月刊，《燎原日报》现暂时为一周三更（每周一、周二和周五更新），主要在[Telegram平台](https://t.me/eventstracing/936)（需要翻墙，每期月刊最后几页有使用教程）上更新，此处更新会有延迟。
+**“马列毛主义和革命左翼大群”** 是一个设立在Telegram上的群聊，[《燎原月刊》](https://t.me/taipingtianguo/865)和[《燎原日报》](https://t.me/eventstracing/936)是其主要刊物。《燎原月刊》自2024年3月后转为半月刊，《燎原日报》现暂时为一周三更（每周一、周二和周五更新），主要在[Telegram平台](https://t.me/eventstracing/936)（需要翻墙，每期月刊最后几页有使用教程）上更新，此处更新会有延迟。
 
 [![YouTube](https://img.shields.io/badge/Youtube-传火的少年(@chuanhuodeshaonian)-red.svg)](https://www.youtube.com/@chuanhuodeshaonian)
 [![Twitter/X](https://img.shields.io/badge/Twitter-燎原(liaoyuan2022)-blue.svg)](https://twitter.com/liaoyuan2022)
 
 [![Telegram群组](https://img.shields.io/badge/Telegram群组-马列毛主义和革命左翼大群(MLMRL)-orange.svg)](https://t.me/longlivemarxleninmaoist)
-[![Martix群组](https://img.shields.io/badge/Martix群组-井冈山-green.svg)](https://matrix.to/#/#jinggangshan:matrix.org)
 
 [![Odysee/LBRY](https://img.shields.io/badge/Odysee/LBRY-传火的少年(@maliemaocommunist)-purple.svg)](https://odysee.com/@maliemaocommunist:1)
 [![论坛网站/discourse](https://img.shields.io/badge/论坛网站/discourse-布站(longlivemarxleninmaoism.online)-black.svg)](https://longlivemarxleninmaoism.online)
 
 其下属几个频道包括[马列毛主义和革命左翼**图书馆**](https://t.me/taipingtianguo)、[马列毛主义和革命左翼**艺术馆**](https://t.me/leftart)、[马列毛主义和革命左翼**时事评论**](https://t.me/eventstracing)、[马列毛主义和革命左翼**国际共运**](https://t.me/statelesscommunism)、[马列毛主义和革命左翼**每日简讯**](https://t.me/voiceofmaoist)、[**图书馆仓储中心**](https://t.me/MLMismLibrary)等。
 
-## 加入Telegram群组
+## 加入大群
 
-[先下载Telegram软件](https://telegram.org/apps)，再用虚拟号码注册一个Telegram账号，[点击这里查看**注册教程**](https://liaoyuan1949.site/t/topic/24180)。
+**真心话要说给真正关心无产阶级的人听。** 自由派不是，他们骂群众“穷逼、愚昧”，骨子里站在资产阶级立场上，只会利用无产阶级，从不关心无产阶级。泛左翼也不是，他们口头喊着“革命”口号，却沉溺于小资性质的虚拟建政和革命过家家中，真正有用的事一件也办不到。这些人往往是只是喊口号玩玩来自我满足的共趣，甚至不乏打着红色旗号企图利用想反抗的群众来给自己牟利的机会主义者。**要找到真正关心无产阶级的人，请加入大群来了解吧。我们坚持五项基本原则，有明确的路线和方法，能够一步步解决问题。**
 
-点击此链接👉<https://t.me/longlivemarxleninmaoist>👈，再点击“**VIEW IN TELEGRAM**”，即可加入群组。
+因为在墙内的言论环境下，凡是站在无产阶级立场的人，都无法在资产阶级专政下表达自己站在无产阶级立场上，无法直接揭露现实矛盾，无法交流讨论解决办法。若是老老实实地把事实说出来，不是被封号，就是被约谈。所以，要想毫无顾忌地说一点真心话，就必须花点时间学会翻墙。
+### 翻墙加入大群的小册子
+[直连布站版](https://rev2.left1895liaoyuan1951.site/t/topic/50914)
+[网盘版](https://www.mediafire.com/file/9ydt725uzgvpbdd/翻墙加入大群小册子.pdf/file)
 
 ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/Photo/MLMRL.png)
 
 或者在Telegram的搜索框内搜索“**@longlivemarxleninmaoist**”，即可找到我们的群组。（下图中只有最上面的是我们的群组，其余的都是高仿群，不要加入。）
 
 ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/Photo/Sreach.png)
-
-## 加入Martix群组的方法
-
-### 【网页版(全平台)】
-
-在浏览器中输入网址: https://chat.oblak.be
-    →进入后注册登录
-    →登录完成后
-    
-→进入https://chat.oblak.be/#/room/#ribaoxiaozu:oblak.be
-    →即可开始聊天
-
-注意:非 PC 平台需将浏览器 UA 改为**电脑版**，以防网页无法载入
-
-![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/oblak-sign-up.png)
-
-### 【APP版（Android平台）】
-
-#### 1.获得安装包
-   在浏览器中输入网址: https://f-droid.org, 在搜索栏搜索**SchildiChat**并下载安装。
-   
-（或者直接点击**此链接**进行下载：https://f-droid.org/zh_Hans/packages/de.spiritcroc.riotx ）
-
-![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/SchildiChat.png)
-
-#### 2.注册帐号
-   ①选择服务器。我们选择**自定义服务器**。并填入 **oblak.be**；
-   
-   ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/severs.png)
-   ![image](https://github.com/monthlyliaoyuan/monthlyliaoyuan/blob/main/be.png)
-   
-   ②点击**注册**,输入你的用户名与密码；
-   
-   点击下一步后,注册完成。
-#### 3.进入房间
-   点击右上角的放大镜搜索房间，在搜索框中输入 **#jinggangshan:matrix.org**（井冈山大群），选择第一个链接后加入房间。
-   
-   也可以点击以下几个链接，加入其他相关群组：
-
-https://matrix.to/#/#zlibrary:oblak.be **（图书馆，艺术馆）**
-
-https://matrix.to/#/!kbtJsGBsJTqeeleovy:oblak.be?via=oblak.be **（时事新闻）**
-
-https://matrix.to/#/#ribaoxiaozu:oblak.be **（日报小组）**
 
 # 《燎原月刊》（2022-至今）
 
